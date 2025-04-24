@@ -21,7 +21,7 @@ def get():
                         "ABCDEFGHIJKLMNOP",
                     ),
                 ),
-                header=(Titled("A.E.G.I.S.: Sherkaicode Website)),
+                header=(Titled("A.E.G.I.S.: Sherkaicode Website")),
                 footer=(
                     P(
                         A(
